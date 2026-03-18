@@ -1,0 +1,200 @@
+{
+  "tabbar": {
+    "home": "Главная",
+    "achievements": "Достижения",
+    "frens": "Друзья",
+    "leaderboard": "Таблица лидеров"
+  },
+  "wallet": "Кошелек",
+  "home": {
+    "title": "Выберите режим игры",
+    "quickPlay": {
+      "title": "Быстрая игра",
+      "condition": "{{amount}} за игру"
+    },
+    "tournaments": {
+      "title": "Турниры",
+      "subtitle": "Соревнуйтесь с другими"
+    },
+    "freeGame": {
+      "title": "Бесплатная игра",
+      "subtitle": "Требуется 1 билет"
+    }
+  },
+  "settings": {
+    "title": "Настройки",
+    "sound": {
+      "title": "Звук",
+      "turnOn": "Включен",
+      "turnOff": "Выключен"
+    },
+    "controll": {
+      "title": "Управление",
+      "joystick": "Джойстик",
+      "arrows": "Стрелки"
+    },
+    "cameraMode": {
+      "title": "Камера",
+      "full": "По карте",
+      "player": "По игроку"
+    },
+    "language": "Язык",
+    "save": "Сохранить"
+  },
+  "refillTickets": {
+    "warning": "У вас закончились билеты. Посмотрите рекламу или купите билеты, чтобы продолжить игру.",
+    "watchAds": "Посмотреть рекламу",
+    "freeTicktes": "+{{amount}} билета бесплатно",
+    "noMoreTicketes": "Билеты закончились",
+    "topUpTickets": "Пополнитель билеты",
+    "or": "или",
+    "buyTicketes": "Купить билеты",
+    "tickets": "{{quantity}} билетов",
+    "cancel": "Отмена"
+  },
+  "partners": {
+    "title": "Пригласить друзей",
+    "subtitle": "Получите бонусы за приглашения",
+    "frindsInvited": "друзей присоединились",
+    "partnerNFT":{
+      "title": "Реферальный NFT",
+      "subtitle": "Заминтите NFT чтобы активировать пассивный доход от рефералов"
+    },
+    "yourReferralLink": "Ваша реферальная ссылка",
+    "copied": "✓ Скопировано",
+    "copy": "Копировать",
+    "earn1": " от покупок билетов рефералов",
+    "earn2": " от входов в турниры рефералов",
+    "earnToNFT": "Доход автоматически на ваш ",
+    "mintButton": "Заминтить NFT (50 TON)",
+    "minted": "NFT заминчен! Пассивный доход активен",
+    "rewardForInvited": {
+      "title": "🎁 Награды за приглашения",
+      "info1": {
+        "need": "1-й реферал",
+        "reward": "+5 билетов"
+      },
+      "info2": {
+        "need": "3-й реферал",
+        "reward": "+10 билетов"
+      },
+      "info3": {
+        "need": "5-й реферал",
+        "reward": "+20 билетов"
+      },
+      "info4": {
+        "need": "10-й реферал",
+        "reward": "+50 билетов",
+        "nft": "SBT «Referral Master»"
+      },
+      "info5": {
+        "need": "25-й реферал",
+        "reward": "+150 билетов",
+        "nft": "SBT «Lord of Rage»"
+      },
+      "info6": {
+        "need": "50-й реферал",
+        "reward": "+500 билетов",
+        "nft": "SBT «King of Invites»"
+      }
+    }
+  },
+  "levelSelect": {
+    "title": "Выбор уровня",
+    "subtitle": "Выберите уровень для прохождения",
+    "bestTime": "Лучшее время",
+    "locked": "Заблокирован"
+  },
+  "leadboard": {
+    "topByReferral": "Топ по рефералам",
+    "leaderTable": "Таблица лидеров",
+    "tab": {
+      "level": "🎯 Уровни",
+      "company": "📚 Кампании",
+      "tournaments": "🏆 Турниры",
+      "top": "👥 Топ"
+    },
+    "top3": "ТОП-3",
+    "you": "Вы",
+    "levels": "уровней"
+  },
+  "achievements": {
+    "title": "Достижения NFT SBT",
+    "subtitle": "Коллекция ваших достижений",
+    "locked": "Заблокировано",
+    "received": "✓ Получено",
+    "rarity": {
+      "common": "Обычное",
+      "rare": "Редкое",
+      "epic": "Эпическое",
+      "legendary": "Легендарное"
+    }
+  },
+
+  "tournaments": {
+    "title": "Турниры",
+    "buttonCreate": "Создать",
+    "allTournaments": "Все турниры",
+    "myTournaments": "Мои турниры",
+    "empty": {
+      "subtitle1": "Нет созданных турниров",
+      "subtitle2": "Создайте свой первый турнир!"
+    },
+    "entryAmount": "Взнос",
+    "prize": "Приз",
+    "time": "Время",
+    "pool": "Пул",
+    "players": "Игроки",
+    "playsers_count": "{{amount}} игроки"
+  },
+  
+  "gameModal": {
+    "win": {
+      "title": "Уровень пройден!",
+      "record": "Новый рекорд!",
+      "time": "Время",
+      "best": "Лучшее",
+      "deaths": "Смерти",
+      "reward": "Награда",
+      "buttons": {
+        "nextLevel": "Следующий уровень",
+        "replay": "Переиграть",
+        "menu": "Меню"
+      }
+    },
+    "noTickets": {
+      "title": "Нет билетов",
+      "subtitle": "Билеты недоступны",
+      "ticketsCount": "У вас осталось <span className=\"font-bold text-purple-900\">{{tickets_count}}</span> билетов.",
+      "nextTicket": "Следующий бесплатный билет через",
+      "advice": "Купите билеты или дождитесь бесплатного.",
+      "buttons": {
+        "buyTickets": "Купить билеты",
+        "mainMenu": "Главное меню"
+      }
+    },
+    "tournamentLose": {
+      "title": "Турнир завершён",
+      "subtitle": "В следующий раз повезёт больше",
+      "yourTime": "Ваше время",
+      "position": "Место",
+      "best": "Лучшее",
+      "nextTournament": "Следующий турнир",
+      "playAgain": "Играть снова",
+      "mainMenu": "Главное меню"
+    },
+    "tournamentWin": {
+      "title": "Чемпион!",
+      "place": "{{place}} место",
+      "winningTime": "Победное время",
+      "buttons": {
+        "mainMenu": "Главное меню"
+      },
+      "statuses": {
+        "pending": "Награда ожидается",
+        "claimed": "Награда получена",
+        "delayed": "Награда обрабатывается"
+      }
+    }
+  }
+}

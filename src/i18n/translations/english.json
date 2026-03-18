@@ -1,0 +1,204 @@
+{
+  "tabbar": {
+    "home": "Home",
+    "achievements": "Achievements",
+    "frens": "Frens",
+    "leaderboard": "Leaderboard"
+  },
+  "wallet": "Wallet",
+  "home": {
+    "title": "Select a game mode",
+    "quickPlay": {
+      "title": "Quick play",
+      "condition": "{{amount}} per game"
+    },
+    "tournaments": {
+      "title": "Tournaments",
+      "subtitle": "Compete with others"
+    },
+    "freeGame": {
+      "title": "Free game",
+      "subtitle": "1 ticket required"
+    }
+  },
+  "settings": {
+    "title": "Settings",
+    "sound": {
+      "title": "Sound",
+      "turnOn": "Enabled",
+      "turnOff": "Disabled"
+    },
+    "controll": {
+      "title": "Controls",
+      "joystick": "Joystick",
+      "arrows": "Arrows"
+    },
+    "cameraMode": {
+      "title": "Camara",
+      "full": "By map",
+      "player": "By player"
+    },
+    "language": "Language",
+    "save": "Save"
+    
+  },
+  "refillTickets": {
+    "warning": "You're out of tickets. Watch an ad or buy tickets to continue playing.",
+    "watchAds": "Watch ad",
+    "freeTicktes": "+{{amount}} tickets for free",
+    "noMoreTicketes": "No more tickets",
+    "topUpTickets": "Top up tickets",
+    "or": "or",
+    "buyTicketes": "Buy tickets",
+    "tickets": "{{quantity}} tickets",
+    "cancel": "Cancel"
+  },
+  "partners": {
+    "title": "Invite Friends",
+    "subtitle": "Earn rewards for inviting friends",
+    "frindsInvited": "friends joined",
+    "partnerNFT": {
+      "title": "Referral NFT",
+      "subtitle": "Mint an NFT to activate passive income from referrals"
+    },
+    "yourReferralLink": "Your referral link",
+    "copied": "✓ Copied",
+    "copy": "Copy",
+    "earn1": " from referral ticket purchases",
+    "earn2": " from referral tournament entries",
+    "earnToNFT": "Rewards automatically go to your ",
+    "mintButton": "Mint NFT (50 TON)",
+    "minted": "NFT minted! Passive income activated",
+    "rewardForInvited": {
+      "title": "🎁 Rewards for Invitations",
+      "info1": {
+        "need": "1st referral",
+        "reward": "+5 tickets"
+      },
+      "info2": {
+        "need": "3rd referral",
+        "reward": "+10 tickets"
+      },
+      "info3": {
+        "need": "5th referral",
+        "reward": "+20 tickets"
+      },
+      "info4": {
+        "need": "10th referral",
+        "reward": "+50 tickets",
+        "nft": "SBT “Referral Master”"
+      },
+      "info5": {
+        "need": "25th referral",
+        "reward": "+150 tickets",
+        "nft": "SBT “Lord of Rage”"
+      },
+      "info6": {
+        "need": "50 referrals",
+        "reward": "+500 tickets",
+        "nft": "SBT “King of Invites”"
+      }
+    }
+  },
+
+  "levelSelect": {
+    "title": "Level Selection",
+    "subtitle": "Choose a level to play",
+    "bestTime": "Best time",
+    "locked": "Locked"
+  },
+
+  "leadboard": {
+    "topByReferral": "Top by Referrals",
+    "leaderTable": "Leaderboard",
+    "tab": {
+      "levels": "🎯 Levels",
+      "company": "📚 Campaigns",
+      "tournaments": "🏆 Tournaments",
+      "top": "👥 Top"
+    },
+    "top3": "TOP-3",
+    "you": "You",
+    "levels": "levels"
+  },
+
+  "achievements": {
+    "title": "NFT SBT Achievements",
+    "subtitle": "Your collection of achievements",
+    "locked": "Locked",
+    "received": "✓ Received",
+    "rarity": {
+      "common": "Common",
+      "rare": "Rare",
+      "epic": "Epic",
+      "legendary": "Legendary"
+    }
+  },
+
+  "tournaments": {
+    "title": "Tournaments",
+    "buttonCreate": "Create",
+    "allTournaments": "All tournaments",
+    "myTournaments": "My tournaments",
+    "empty": {
+      "subtitle1": "No tournaments created",
+      "subtitle2": "Create your first tournament!"
+    },
+    "entryAmount": "Contribution",
+    "prize": "Prize",
+    "time": "Time",
+    "pool": "Pool",
+    "players": "Players",
+    "players_count": "{{amount}} players"
+  },
+
+  "gameModal": {
+    "win": {
+      "title": "Level Complete!",
+      "record": "New Record!",
+      "time": "Time",
+      "best": "Best",
+      "deaths": "Deaths",
+      "reward": "Reward",
+      "buttons": {
+        "nextLevel": "Next Level",
+        "replay": "Replay",
+        "menu": "Menu"
+      }
+    },
+    "noTickets": {
+      "title": "No Tickets",
+      "subtitle": "Tickets unavailable",
+      "ticketsCount": "You have <span className=\"font-bold text-purple-900\">{{tickets_count}}</span> tickets remaining.",
+      "nextTicket": "Next free ticket in",
+      "advice": "Purchase more tickets or wait for a free one.",
+      "buttons": {
+        "buyTickets": "Buy Tickets",
+        "mainMenu": "Main Menu"
+      }
+    },
+    "tournamentLose": {
+      "title": "Tournament Over",
+      "subtitle": "Better luck next time",
+      "yourTime": "Your Time",
+      "position": "Position",
+      "best": "Best",
+      "nextTournament": "Next tournament",
+      "playAgain": "Play Again",
+      "mainMenu": "Main Menu"
+    },
+    "tournamentWin": {
+      "title": "Champion!",
+      "place": "{{place}} Place",
+      "winningTime": "Winning Time",
+      "buttons": {
+        "mainMenu": "Main Menu"
+      },
+      "statuses": {
+        "pending": "Reward pending",
+        "claimed": "Reward claimed",
+        "delayed": "Reward processing"
+      }
+    }
+  }
+}
